@@ -16,8 +16,8 @@
 class Briefcred < Formula
   desc "Local credential broker for AI agents and developer tooling"
   homepage "https://github.com/vkend/briefcred"
-  url "https://github.com/vkend/briefcred/releases/download/v0.1.0/briefcred-0.1.0-macos-universal.tar.gz"
-  sha256 "f0aa510aa35c69afd10389f21089cfe27dbc3b6debab72220cf5dafa0264284a"
+  url "https://github.com/vkend/briefcred/releases/download/v0.1.1/briefcred-0.1.1-macos-universal.tar.gz"
+  sha256 "a11368c1be33c3af82546a9a61c5786d154c534884aabca1adba770012011186"
   license any_of: ["MIT", "Apache-2.0"]
 
   # A bottle would be a second copy of the same universal binaries. The release
